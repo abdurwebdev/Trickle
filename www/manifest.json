@@ -1,0 +1,19 @@
+{
+  "name": "Trickle",
+  "short_name": "Trickle",
+  "description": "Connect pipes to water the garden in this minimalist puzzle game.",
+  "start_url": "/Trickle/",
+  "scope": "/Trickle/",
+  "display": "standalone",
+  "background_color": "#25465a",
+  "theme_color": "#25465a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

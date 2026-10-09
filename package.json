@@ -1,0 +1,26 @@
+{
+  "name": "trickle",
+  "version": "1.0.0",
+  "description": "**Trickle** is a clean, minimal, and responsive HTML5 canvas puzzle game. The goal of the game is simple: rotate the pipe tiles to connect every branch to the central water source and water the entire garden!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurwebdev/Trickle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdurwebdev/Trickle/issues"
+  },
+  "homepage": "https://github.com/abdurwebdev/Trickle#readme",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3"
+  }
+}
